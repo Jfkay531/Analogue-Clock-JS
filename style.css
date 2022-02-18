@@ -18,8 +18,7 @@ body {
 
 .clock {
   width: 80vw;
-  height: 70vh;
-  margin: 0px;
+  height: 50vh;
   background-color: rgba(255,255,255,.8);
   border-radius: 50%;
   /* border: 2px solid black; */
