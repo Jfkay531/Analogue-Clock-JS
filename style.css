@@ -6,7 +6,7 @@ body {
   justify-content: center;
   min-height: 100vh;
   overflow: hidden; /* remove scrolling */
-  margin: 5px;
+
 
 }
 
@@ -17,8 +17,9 @@ body {
 }
 
 .clock {
-  width: 300px;
-  height:300px;
+  width: 580px;
+  height: 450px;
+  margin: 0px;
   background-color: rgba(255,255,255,.8);
   border-radius: 50%;
   /* border: 2px solid black; */
